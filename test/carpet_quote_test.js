@@ -1,5 +1,5 @@
 const assert = require('assert');
-const CarpetQuote = require("../quote");
+const CarpetQuote = require("../carpet_quote");
 
 describe("Carpet Quote", () => {
     it('is room area * price per sq m un-rounded', () => {
